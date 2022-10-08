@@ -1,1 +1,1 @@
-rootProject.name = "GroupTabs-"
+rootProject.name = "GroupTabs"

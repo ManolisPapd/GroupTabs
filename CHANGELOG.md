@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# GroupTabs- Changelog
+# GroupTabs Changelog
 
 ## [Unreleased]
 ### Added
